@@ -1,4 +1,8 @@
 ---
+genres:
+  - idle
+  - rpg
+  - casual
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
